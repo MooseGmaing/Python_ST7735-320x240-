@@ -34,8 +34,8 @@ SPI_CLOCK_HZ = 4000000 # 4 MHz
 
 
 # Constants for interacting with display registers.
-ST7735_TFTWIDTH    = 128
-ST7735_TFTHEIGHT   = 160
+ST7735_TFTWIDTH    = 320
+ST7735_TFTHEIGHT   = 240
 
 ST7735_NOP         = 0x00
 ST7735_SWRESET     = 0x01
